@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../altinn-kafka-jms-transformer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../altinnkanal-2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dsop-kontroll" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../faktum" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../helse-sykemeldingteller" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../helse-sykmelding-router" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../jenkins-integrasjon-pipeline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kotlin-koans" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../padm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pale" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../paop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pdfgen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfo-kotlin-ktor-kickstarter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfo-ktor-kickstarter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfo-xml-codegen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfomottak" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfomottaktmp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfooppgavegsak" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosmapprec" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosminfotrygd" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosminfotrygdoppdatering" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosmmottak" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosmpapirmottak" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosmregister" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosmregler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosykemeldingjournaling" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syfosykemeldingregler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../varseltjeneste-2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xml-validation" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="948" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
