@@ -18,4 +18,4 @@ Creating a docker image should be as simple as `docker build -t test-applikasjon
 
 ## Contact us
 ### Code/project related questions can be sent to
-* Joakim Kartveit, `joakim.kartveit@gmail.com`
+* Joakim Kartveit, `joakimkartveit@gmail.com`
